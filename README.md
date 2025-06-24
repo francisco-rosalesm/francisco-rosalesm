@@ -11,23 +11,23 @@
 - **Lenguajes:** Python · SQL · JavaScript · HTML · PHP  
 - **Análisis y ML:** pandas · NumPy · scikit-learn · matplotlib · seaborn  
 - **Bases de datos:** SQL Server · MySQL  
-- **Visualización:** Power BI · Dashboards web personalizados  
+- **Visualización:** Tableur · Dashboards web personalizados  
 - **Otros:** Git · Jupyter Notebooks · Metodologías ágiles · Linux
 
 ---
 
 ## 🚀 Proyectos destacados
 
-📌 **Predicción de rotación de empleados**  
+📌 **Predicción de cancelacion de contratos**  
 Clasificación binaria usando árboles de decisión y regresión logística.
 
 📌 **Análisis de salud pública con Python y SQL**  
 Exploración y visualización de datos de morbilidad hospitalaria.
 
-📌 **Modelo de detección de fraude bancario**  
-Entrenamiento y evaluación de modelos con ROC-AUC y validación cruzada.
+📌 **Modelo de detección de imagenes**  
+Entrenamiento y evaluación de visualizacion de imagenes meiante machine learning.
 
-➡️ Puedes ver más en la pestaña [Repositories](https://github.com/TU_USUARIO/repositories)
+➡️ Puedes ver más en la pestaña [Repositories](https://github.com/francisco-rosalesm/repositories)
 
 ---
 
@@ -35,15 +35,15 @@ Entrenamiento y evaluación de modelos con ROC-AUC y validación cruzada.
 
 - **Data Science Bootcamp – TripleTen** (2025)  
 - **Lic. en Sistemas de Computación Administrativa – UVM**  
-  Tesis con mención honorífica sobre estimación estadística distribuida.
+  
 
 ---
 
 ## 📫 Contacto
 
-📧 francisco.tuemail@example.com  
-💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-🌐 [Portafolio](https://tusitio.dev) *(si tienes uno)*
+📧 francisco.rosalesm@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/francisco-javier-rosalesm/)  
+
 
 ---
 
